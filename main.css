@@ -28,7 +28,7 @@ p.categorie{
 div.contenue{
     background-color: white;
     margin: 40px 8px 80px 8px;
-    padding: 0px 8px 20px 8px;
+    padding: 0px 6px 20px 6px;
     box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.4);
     overflow: visible;
 }
